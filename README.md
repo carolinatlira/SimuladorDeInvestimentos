@@ -118,10 +118,31 @@ Durante o desenvolvimento deste projeto foi possível:
 ---
 ## Como utilizar
 1. Comece preenchendo o valor do seu salário e uma sugestão de investimento será dada.
-
-
-
+<br></br>
+<img width="575" height="181" alt="Captura de tela 2026-08-01 174229" src="https://github.com/user-attachments/assets/44496a03-c603-46b1-9c96-28806934b37c" />
+<br></br>
+2. Preencha quanto pretende investir por mês como indicado na imagem abaixo.
+<br></br>
+<img width="575" height="127" alt="Captura de tela 2026-08-01 175028" src="https://github.com/user-attachments/assets/5d5d44e3-7687-4058-9d12-3d165d34ee06" />
+<br></br>
+3. Serão simulados alguns cenários, como mostrado na imagem a seguir.
+<br></br>
+<img width="577" height="120" alt="Captura de tela 2026-08-01 175203" src="https://github.com/user-attachments/assets/1c9ff86a-de39-4328-9f39-45aec3a9731d" />
+<br></br>
+4. Escolha o seu perfil: Conservador, Moderado ou Agressivo.
+<br></br>
+<img width="575" height="176" alt="Captura de tela 2026-08-01 175915" src="https://github.com/user-attachments/assets/bbdfd410-dc0a-4a09-b71a-67820a783313" />
+<br></br>
+5. Confira os percentuais sugeridos de investimento.
+<br></br>
+<img width="576" height="404" alt="Captura de tela 2026-08-01 180030" src="https://github.com/user-attachments/assets/e32aa623-546b-4c9e-973c-805ac3ddd4f6" />
+<br></br>
 
 ## Conclusão
 
 O desenvolvimento deste simulador permitiu consolidar conhecimentos em Excel e finanças, demonstrando como ferramentas simples podem ser utilizadas para apoiar a tomada de decisões de investimento. A automação dos cálculos proporciona maior agilidade, confiabilidade e facilidade de uso para investidores que desejam planejar seu futuro financeiro.
+
+## Confira a ferramenta
+
+[Simulador de Investimentos.xlsx](https://github.com/user-attachments/files/30623234/Simulador.de.Investimentos.xlsx)
+
